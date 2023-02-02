@@ -31,4 +31,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 
 
-![GitHub]((https://www.freecodecamp.org/news/content/images/size/w2000/2022/07/git-github.png)
+![GitHub](https://www.freecodecamp.org/news/content/images/size/w2000/2022/07/git-github.png)
