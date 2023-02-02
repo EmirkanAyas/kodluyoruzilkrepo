@@ -31,4 +31,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 
 
-![GitHub]((https://file%2B.vscode-resource.vscode-cdn.net/c%3A/Users/EMIR-PC/OneDrive/Masa%C3%BCst%C3%BC/1_SSRjtoQ0H2X3SBPOiJ5rZw.png?version%3D1675347201701)
+![GitHub](https://miro.medium.com/max/1400/1*SSRjtoQ0H2X3SBPOiJ5rZw.jpeg)
