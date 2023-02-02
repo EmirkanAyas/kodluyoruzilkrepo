@@ -28,5 +28,7 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ## Licanse
 
 [Mit](https://github.com/EmirkanAyas/kodluyoruzilkrepo)
-------------------------------------
+
+
+
 ![GitHub](https://images.app.goo.gl/ETyVbPLZdnqGyxco6)
